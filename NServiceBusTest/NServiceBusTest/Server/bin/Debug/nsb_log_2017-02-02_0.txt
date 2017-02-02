@@ -1,0 +1,16 @@
+﻿2017-02-02 08:07:46.563 INFO  DefaultFactory Logging to 'C:\Development\NServiceBusTest\NServiceBusTest\Server\bin\Debug\' with level Info
+2017-02-02 08:07:46.729 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 23.01.2017.
+2017-02-02 08:15:21.079 INFO  DefaultFactory Logging to 'C:\Development\NServiceBusTest\NServiceBusTest\Server\bin\Debug\' with level Info
+2017-02-02 08:15:21.218 INFO  NServiceBus.LicenseManager Trial for the Particular Service Platform has been active since 23.01.2017.
+2017-02-02 08:15:21.583 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'FP\rwiglenda' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "FP\rwiglenda" /add
+2017-02-02 08:15:21.690 INFO  NServiceBus.QueuePermissions Queue [private$\error] is running with [Everyone] and/or [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-02-02 08:15:21.706 INFO  NServiceBus.QueuePermissions Queue [private$\Samples.StepByStep.Server.Timeouts] is running with [Everyone] and/or [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-02-02 08:15:21.726 INFO  NServiceBus.QueuePermissions Queue [private$\Samples.StepByStep.Server.TimeoutsDispatcher] is running with [Everyone] and/or [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-02-02 08:15:21.741 INFO  NServiceBus.QueuePermissions Queue [private$\Samples.StepByStep.Server.Retries] is running with [Everyone] and/or [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-02-02 08:15:21.748 INFO  NServiceBus.QueuePermissions Queue [private$\Samples.StepByStep.Server] is running with [Everyone] and/or [NT AUTHORITY\ANONYMOUS LOGON] permissions. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-02-02 08:15:23.188 INFO  NServiceBus.SubscriptionReceiverBehavior Subscribe from Samples.StepByStep.Subscriber@FP-PC2508 on message type Shared.OrderPlaced, Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2017-02-02 08:16:02.593 INFO  Shared.PlaceOrderHandler Order for Product:New shoes placed with id: 711c02e4-9bb3-4534-9d22-addd1aaf20fe
+2017-02-02 08:16:02.594 INFO  Shared.PlaceOrderHandler Publishing: OrderPlaced for Order Id: 711c02e4-9bb3-4534-9d22-addd1aaf20fe
+2017-02-02 08:16:05.353 INFO  Shared.PlaceOrderHandler Order for Product:New shoes placed with id: fdcaf2cb-ef92-48f6-bc35-eee1616fdbaa
+2017-02-02 08:16:05.357 INFO  Shared.PlaceOrderHandler Publishing: OrderPlaced for Order Id: fdcaf2cb-ef92-48f6-bc35-eee1616fdbaa
