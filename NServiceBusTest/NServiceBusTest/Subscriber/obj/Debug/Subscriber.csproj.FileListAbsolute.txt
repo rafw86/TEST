@@ -9,3 +9,6 @@ C:\Development\NServiceBusTest\NServiceBusTest\Subscriber\bin\Debug\NServiceBus.
 C:\Development\NServiceBusTest\NServiceBusTest\Subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
 C:\Development\NServiceBusTest\NServiceBusTest\Subscriber\obj\Debug\Subscriber.exe
 C:\Development\NServiceBusTest\NServiceBusTest\Subscriber\obj\Debug\Subscriber.pdb
+C:\GITTESTREPO\NServiceBusTest\NServiceBusTest\Subscriber\bin\Debug\Subscriber.exe.config
+C:\GITTESTREPO\NServiceBusTest\NServiceBusTest\Subscriber\obj\Debug\Subscriber.exe
+C:\GITTESTREPO\NServiceBusTest\NServiceBusTest\Subscriber\obj\Debug\Subscriber.pdb
