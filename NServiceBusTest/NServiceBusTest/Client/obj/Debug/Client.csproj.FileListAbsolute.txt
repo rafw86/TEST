@@ -1,0 +1,14 @@
+C:\Development\NServiceBusTest\NServiceBusTest\Client\bin\Debug\Client.exe.config
+C:\Development\NServiceBusTest\NServiceBusTest\Client\bin\Debug\Client.exe
+C:\Development\NServiceBusTest\NServiceBusTest\Client\bin\Debug\Client.pdb
+C:\Development\NServiceBusTest\NServiceBusTest\Client\bin\Debug\NServiceBus.Core.dll
+C:\Development\NServiceBusTest\NServiceBusTest\Client\bin\Debug\Shared.dll
+C:\Development\NServiceBusTest\NServiceBusTest\Client\bin\Debug\Shared.pdb
+C:\Development\NServiceBusTest\NServiceBusTest\Client\bin\Debug\NServiceBus.Core.pdb
+C:\Development\NServiceBusTest\NServiceBusTest\Client\bin\Debug\NServiceBus.Core.xml
+C:\Development\NServiceBusTest\NServiceBusTest\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Development\NServiceBusTest\NServiceBusTest\Client\obj\Debug\Client.exe
+C:\Development\NServiceBusTest\NServiceBusTest\Client\obj\Debug\Client.pdb
+C:\GITTESTREPO\NServiceBusTest\NServiceBusTest\Client\bin\Debug\Client.exe.config
+C:\GITTESTREPO\NServiceBusTest\NServiceBusTest\Client\obj\Debug\Client.exe
+C:\GITTESTREPO\NServiceBusTest\NServiceBusTest\Client\obj\Debug\Client.pdb

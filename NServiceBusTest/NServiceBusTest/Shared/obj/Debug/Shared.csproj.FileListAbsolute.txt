@@ -1,0 +1,8 @@
+C:\Development\NServiceBusTest\NServiceBusTest\Shared\bin\Debug\Shared.dll
+C:\Development\NServiceBusTest\NServiceBusTest\Shared\bin\Debug\Shared.pdb
+C:\Development\NServiceBusTest\NServiceBusTest\Shared\bin\Debug\NServiceBus.Core.dll
+C:\Development\NServiceBusTest\NServiceBusTest\Shared\bin\Debug\NServiceBus.Core.pdb
+C:\Development\NServiceBusTest\NServiceBusTest\Shared\bin\Debug\NServiceBus.Core.xml
+C:\Development\NServiceBusTest\NServiceBusTest\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+C:\Development\NServiceBusTest\NServiceBusTest\Shared\obj\Debug\Shared.dll
+C:\Development\NServiceBusTest\NServiceBusTest\Shared\obj\Debug\Shared.pdb
