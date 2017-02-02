@@ -9,3 +9,6 @@ C:\Development\NServiceBusTest\NServiceBusTest\Client\bin\Debug\NServiceBus.Core
 C:\Development\NServiceBusTest\NServiceBusTest\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
 C:\Development\NServiceBusTest\NServiceBusTest\Client\obj\Debug\Client.exe
 C:\Development\NServiceBusTest\NServiceBusTest\Client\obj\Debug\Client.pdb
+C:\GITTESTREPO\NServiceBusTest\NServiceBusTest\Client\bin\Debug\Client.exe.config
+C:\GITTESTREPO\NServiceBusTest\NServiceBusTest\Client\obj\Debug\Client.exe
+C:\GITTESTREPO\NServiceBusTest\NServiceBusTest\Client\obj\Debug\Client.pdb

@@ -18,7 +18,7 @@ namespace Client
         static async Task AsyncMain()
         {
             // This makes it easier to tell console windows apart
-            Console.Title = "Samples.StepByStep.Client";
+            Console.Title = "Samples.StepByStep.ClientP";
 
             // The endpoint name will be used to determine queue names and serves
             // as the address, or identity, of the endpoint
