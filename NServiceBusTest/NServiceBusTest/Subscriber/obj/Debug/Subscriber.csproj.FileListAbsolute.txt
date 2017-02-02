@@ -1,0 +1,11 @@
+C:\Development\NServiceBusTest\NServiceBusTest\Subscriber\bin\Debug\Subscriber.exe.config
+C:\Development\NServiceBusTest\NServiceBusTest\Subscriber\bin\Debug\Subscriber.exe
+C:\Development\NServiceBusTest\NServiceBusTest\Subscriber\bin\Debug\Subscriber.pdb
+C:\Development\NServiceBusTest\NServiceBusTest\Subscriber\bin\Debug\NServiceBus.Core.dll
+C:\Development\NServiceBusTest\NServiceBusTest\Subscriber\bin\Debug\Shared.dll
+C:\Development\NServiceBusTest\NServiceBusTest\Subscriber\bin\Debug\Shared.pdb
+C:\Development\NServiceBusTest\NServiceBusTest\Subscriber\bin\Debug\NServiceBus.Core.pdb
+C:\Development\NServiceBusTest\NServiceBusTest\Subscriber\bin\Debug\NServiceBus.Core.xml
+C:\Development\NServiceBusTest\NServiceBusTest\Subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\Development\NServiceBusTest\NServiceBusTest\Subscriber\obj\Debug\Subscriber.exe
+C:\Development\NServiceBusTest\NServiceBusTest\Subscriber\obj\Debug\Subscriber.pdb
